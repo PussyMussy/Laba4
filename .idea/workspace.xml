@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d9c61c1-fa5e-4802-a1da-1bb9f1cd6d8a" name="Changes" comment="" />
+    <list default="true" id="0d9c61c1-fa5e-4802-a1da-1bb9f1cd6d8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lr4/job8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lr4/job8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ip8XCCvSNaEQZx2m8nWz792r05" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +39,87 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/79181/IdeaProjects/Laba3",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.job8">
+    <configuration name="job5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.job5" />
+      <module name="Laba4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.job7" />
+      <module name="Laba4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.job8" />
+      <module name="Laba4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="job9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.job9" />
+      <module name="Laba4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lr4.x" />
+      <module name="Laba4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lr4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.job8" />
+        <item itemvalue="Application.job9" />
+        <item itemvalue="Application.x" />
+        <item itemvalue="Application.job7" />
+        <item itemvalue="Application.job5" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
